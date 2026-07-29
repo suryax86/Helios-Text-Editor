@@ -1,0 +1,6 @@
+{
+  "name": "Text Editor",
+  "description": "Lightweight Android text editor with real-time cloud sync, collaboration, and complete formatting tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
